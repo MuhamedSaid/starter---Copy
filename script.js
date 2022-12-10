@@ -83,6 +83,11 @@ yousef.greet();
 // 3. Classes are excuted in strict mode.
 
 */
+console.log('hello');
+console.log('hello');
+asdfasdf;
+asdfasdfasdf;
+asdf;
 
 ///////////////////////////////////////////////
 // Getters & Setters
